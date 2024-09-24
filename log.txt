@@ -6,3 +6,20 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 Everything up-to-date
+[main 93eda8a] Actualización automática
+ Committer: EC2 Default User <ec2-user@ip-172-31-19-246.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+To https://github.com/sergiovegam41/my-server-minecraft.git
+   be75b53..93eda8a  main -> main
