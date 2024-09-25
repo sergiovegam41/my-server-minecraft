@@ -1,35 +1,6 @@
-[22:46:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:46:26] [ServerMain/INFO]: Loaded 1175 recipes
-[22:46:26] [ServerMain/INFO]: Loaded 1276 advancements
-[22:46:27] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[22:46:27] [Server thread/INFO]: Loading properties
-[22:46:27] [Server thread/INFO]: Default game type: SURVIVAL
-[22:46:27] [Server thread/INFO]: Generating keypair
-[22:46:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:46:27] [Server thread/INFO]: Using epoll channel type
-[22:46:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:46:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:46:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:46:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:46:27] [Server thread/INFO]: Preparing level "world"
-[22:46:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:46:37] [Server thread/INFO]: Time elapsed: 2830 ms
-[22:46:37] [Server thread/INFO]: Done (10.057s)! For help, type "help"
-[22:49:36] [Server thread/INFO]: sergios41[/191.95.135.173:1184] logged in with entity id 2 at (-511.37836063485565, 64.0, 118.67183159598997)
-[22:49:36] [Server thread/INFO]: sergios41 joined the game
-[22:51:25] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[22:51:25] [Server thread/INFO]: sergios41 left the game
-[22:58:55] [Server thread/INFO]: sergios41[/191.95.135.173:1213] logged in with entity id 1310 at (-514.5938876982426, 64.0625, 98.71303963967985)
-[22:58:55] [Server thread/INFO]: sergios41 joined the game
-[23:03:30] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[23:03:30] [Server thread/INFO]: sergios41 left the game
-[23:59:00] [Server thread/INFO]: sergios41[/191.95.135.173:62776] logged in with entity id 2912 at (-514.1613717691829, 64.0625, 94.96118973855789)
-[23:59:00] [Server thread/INFO]: sergios41 joined the game
-[23:59:59] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[23:59:59] [Server thread/INFO]: sergios41 left the game
+[00:00:45] [Server thread/INFO]: sergios41[/191.95.135.173:62745] logged in with entity id 3831 at (-514.1613717691829, 64.0625, 94.96118973855789)
+[00:00:45] [Server thread/INFO]: sergios41 joined the game
+[00:01:28] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[00:01:28] [Server thread/INFO]: sergios41 left the game
+[00:07:07] [Server thread/INFO]: sergios41[/191.95.135.173:62809] logged in with entity id 4724 at (-514.1613717691829, 64.0625, 94.96118973855789)
+[00:07:07] [Server thread/INFO]: sergios41 joined the game
