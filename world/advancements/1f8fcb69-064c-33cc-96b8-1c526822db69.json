@@ -2350,7 +2350,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-09-05 03:53:28 +0000"
+      "minecraft:soul_sand_valley": "2024-09-05 03:53:28 +0000",
+      "minecraft:basalt_deltas": "2024-09-25 03:00:51 +0000"
     },
     "done": false
   },
@@ -2969,6 +2970,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-09-25 00:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-09-25 03:00:50 +0000"
     },
     "done": true
   },
