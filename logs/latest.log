@@ -1,8 +1,22 @@
-[00:00:45] [Server thread/INFO]: sergios41[/191.95.135.173:62745] logged in with entity id 3831 at (-514.1613717691829, 64.0625, 94.96118973855789)
-[00:00:45] [Server thread/INFO]: sergios41 joined the game
-[00:01:28] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[00:01:28] [Server thread/INFO]: sergios41 left the game
-[00:07:07] [Server thread/INFO]: sergios41[/191.95.135.173:62809] logged in with entity id 4724 at (-514.1613717691829, 64.0625, 94.96118973855789)
-[00:07:07] [Server thread/INFO]: sergios41 joined the game
-[01:04:39] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[01:04:39] [Server thread/INFO]: sergios41 left the game
+[01:38:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:38:29] [ServerMain/INFO]: Loaded 1175 recipes
+[01:38:29] [ServerMain/INFO]: Loaded 1276 advancements
+[01:38:30] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[01:38:30] [Server thread/INFO]: Loading properties
+[01:38:30] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:30] [Server thread/INFO]: Generating keypair
+[01:38:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:30] [Server thread/INFO]: Using epoll channel type
+[01:38:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:38:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:38:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:38:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:38:30] [Server thread/INFO]: Preparing level "world"
+[01:38:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:38:40] [Server thread/INFO]: Time elapsed: 2493 ms
+[01:38:40] [Server thread/INFO]: Done (9.973s)! For help, type "help"
