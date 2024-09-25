@@ -117,6 +117,7 @@
       "beetroot": "2024-09-14 23:52:37 +0000",
       "cooked_chicken": "2024-09-13 03:04:36 +0000",
       "potato": "2024-09-14 23:52:26 +0000",
+      "cooked_cod": "2024-09-25 22:06:15 +0000",
       "cod": "2024-09-16 05:32:08 +0000",
       "carrot": "2024-09-13 03:42:26 +0000"
     },
@@ -2642,6 +2643,24 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-09-25 20:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-09-25 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-09-25 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-09-25 21:59:22 +0000"
     },
     "done": true
   },
