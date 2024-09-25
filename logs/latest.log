@@ -1,78 +1,38 @@
-[01:38:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:38:29] [ServerMain/INFO]: Loaded 1175 recipes
-[01:38:29] [ServerMain/INFO]: Loaded 1276 advancements
-[01:38:30] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[01:38:30] [Server thread/INFO]: Loading properties
-[01:38:30] [Server thread/INFO]: Default game type: SURVIVAL
-[01:38:30] [Server thread/INFO]: Generating keypair
-[01:38:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:38:30] [Server thread/INFO]: Using epoll channel type
-[01:38:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:38:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:38:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:38:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:38:30] [Server thread/INFO]: Preparing level "world"
-[01:38:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:40] [Server thread/INFO]: Time elapsed: 2493 ms
-[01:38:40] [Server thread/INFO]: Done (9.973s)! For help, type "help"
-[01:42:30] [Server thread/INFO]: sergios41[/191.95.135.173:60759] logged in with entity id 2 at (-486.86716090560986, 4.0, -102.66015488255786)
-[01:42:30] [Server thread/INFO]: sergios41 joined the game
-[01:47:13] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[01:47:13] [Server thread/INFO]: sergios41 left the game
-[02:05:32] [Server thread/INFO]: sergios41[/191.95.135.173:64562] logged in with entity id 1571 at (-498.06647804641716, 71.0, 26.410126681436243)
-[02:05:32] [Server thread/INFO]: sergios41 joined the game
-[02:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
-[02:06:37] [Server thread/INFO]: Mr_blaza23[/186.99.101.203:53760] logged in with entity id 2630 at (26.5, 66.0, -37.5)
-[02:06:37] [Server thread/INFO]: Mr_blaza23 joined the game
-[02:09:34] [Server thread/INFO]: sergios41 lost connection: Timed out
-[02:09:34] [Server thread/INFO]: sergios41 left the game
-[02:09:38] [Server thread/INFO]: sergios41[/191.95.135.173:64521] logged in with entity id 4384 at (-366.763085213302, 65.25220334025373, 45.62216642407771)
-[02:09:38] [Server thread/INFO]: sergios41 joined the game
-[02:17:18] [Server thread/INFO]: Mr_blaza23 was slain by Zombie
-[02:19:09] [Server thread/INFO]: sergios41 lost connection: Timed out
-[02:19:09] [Server thread/INFO]: sergios41 left the game
-[02:20:02] [Server thread/INFO]: sergios41[/191.95.135.173:64567] logged in with entity id 11927 at (-526.8939403272562, 64.0625, 95.78132494729597)
-[02:20:02] [Server thread/INFO]: sergios41 joined the game
-[02:29:12] [Server thread/INFO]: Mr_blaza23 drowned
-[02:36:00] [Server thread/INFO]: Mr_blaza23 was slain by Zombie
-[02:36:16] [Server thread/INFO]: Mr_blaza23 lost connection: Disconnected
-[02:36:16] [Server thread/INFO]: Mr_blaza23 left the game
-[02:36:22] [Server thread/INFO]: Mr_blaza23[/186.99.101.203:54528] logged in with entity id 24384 at (41.5, 68.0, -28.5)
-[02:36:22] [Server thread/INFO]: Mr_blaza23 joined the game
-[02:36:49] [Server thread/INFO]: Mr_blaza23 lost connection: Disconnected
-[02:36:49] [Server thread/INFO]: Mr_blaza23 left the game
-[02:37:47] [Server thread/WARN]: sergios41 moved too quickly! 3.494560854250949,-2.0,-9.388305977590711
-[02:39:57] [Server thread/INFO]: Mr_blaza23[/186.99.101.203:55165] logged in with entity id 25438 at (42.74749253760828, 68.0, -30.638526168154762)
-[02:39:57] [Server thread/INFO]: Mr_blaza23 joined the game
-[02:48:40] [Server thread/INFO]: Mr_blaza23 has made the advancement [Sweet Dreams]
-[02:49:06] [Server thread/INFO]: Mr_blaza23 has made the advancement [Acquire Hardware]
-[02:49:13] [Server thread/INFO]: Mr_blaza23 has made the advancement [Suit Up]
-[02:49:34] [Server thread/INFO]: Mr_blaza23 has made the advancement [Isn't It Iron Pick]
-[02:53:37] [Server thread/INFO]: Mr_blaza23 has made the advancement [We Need to Go Deeper]
-[02:53:51] [Server thread/INFO]: Mr_blaza23 has made the advancement [Stone Age]
-[03:00:20] [Server thread/INFO]: Mr_blaza23 has made the advancement [Monster Hunter]
-[03:00:36] [Server thread/INFO]: Mr_blaza23 tried to swim in lava
-[03:00:50] [Server thread/INFO]: sergios41 has made the advancement [Suit Up]
-[03:09:53] [Server thread/INFO]: Mr_blaza23 was shot by Skeleton
-[03:18:15] [Server thread/INFO]: sergios41 burned to death
-[03:18:20] [Server thread/INFO]: Mr_blaza23 has made the advancement [Cover Me with Diamonds]
-[03:22:14] [Server thread/INFO]: Mr_blaza23 was slain by Enderman
-[03:32:47] [Server thread/INFO]: sergios41 was shot by Skeleton
-[03:33:30] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:33:30] [Server thread/INFO]: sergios41 left the game
-[03:33:59] [Server thread/INFO]: Mr_blaza23 has completed the challenge [Return to Sender]
-[03:35:52] [Server thread/INFO]: Mr_blaza23 lost connection: Disconnected
-[03:35:52] [Server thread/INFO]: Mr_blaza23 left the game
-[03:39:35] [Server thread/INFO]: sergios41[/191.95.135.173:26077] logged in with entity id 41426 at (-530.5, 64.875, 95.5)
-[03:39:35] [Server thread/INFO]: sergios41 joined the game
-[03:45:05] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:45:05] [Server thread/INFO]: sergios41 left the game
-[12:12:37] [Server thread/INFO]: sergios41[/191.95.135.173:44831] logged in with entity id 43148 at (-525.3807461164477, 64.0, 107.90508053268472)
-[12:12:37] [Server thread/INFO]: sergios41 joined the game
-[12:25:58] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[12:25:58] [Server thread/INFO]: sergios41 left the game
+[17:20:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:20:52] [ServerMain/INFO]: Loaded 1175 recipes
+[17:20:52] [ServerMain/INFO]: Loaded 1276 advancements
+[17:20:53] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[17:20:53] [Server thread/INFO]: Loading properties
+[17:20:53] [Server thread/INFO]: Default game type: SURVIVAL
+[17:20:53] [Server thread/INFO]: Generating keypair
+[17:20:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:20:53] [Server thread/INFO]: Using epoll channel type
+[17:20:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:20:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:20:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:20:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:20:53] [Server thread/INFO]: Preparing level "world"
+[17:21:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:21:04] [Server thread/INFO]: Time elapsed: 2955 ms
+[17:21:04] [Server thread/INFO]: Done (10.407s)! For help, type "help"
+[17:24:31] [Server thread/INFO]: sergios41[/191.95.135.173:54727] logged in with entity id 7 at (-530.5, 64.5625, 97.5)
+[17:24:31] [Server thread/INFO]: sergios41 joined the game
+[17:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[17:26:38] [Server thread/WARN]: sergios41 moved too quickly! 1.3855724687346083,0.0,-9.995394246408367
+[17:30:12] [Server thread/INFO]: julio9426[/191.95.135.173:54736] logged in with entity id 2094 at (-519.0903499848199, 64.0, 115.55973296879671)
+[17:30:12] [Server thread/INFO]: julio9426 joined the game
+[17:31:06] [Server thread/INFO]: julio9426 lost connection: Timed out
+[17:31:06] [Server thread/INFO]: julio9426 left the game
+[17:33:20] [Server thread/INFO]: julio9426[/191.95.135.173:54705] logged in with entity id 2837 at (-519.0903499848199, 64.0, 115.55973296879671)
+[17:33:20] [Server thread/INFO]: julio9426 joined the game
+[17:51:34] [Server thread/INFO]: sergios41 has made the advancement [A Terrible Fortress]
+[17:51:36] [Server thread/INFO]: julio9426 has made the advancement [A Terrible Fortress]
+[17:54:40] [Server thread/INFO]: julio9426 was slain by Zombified Piglin
+[17:54:47] [Server thread/INFO]: sergios41 has made the advancement [Into Fire]
+[17:59:24] [Server thread/INFO]: julio9426 has made the advancement [Into Fire]

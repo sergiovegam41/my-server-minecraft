@@ -197,13 +197,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-09-04 00:12:28 +0000",
+      "minecraft:blaze": "2024-09-25 17:53:07 +0000",
       "minecraft:skeleton": "2024-09-04 01:55:15 +0000",
       "minecraft:zombified_piglin": "2024-09-05 21:31:45 +0000",
       "minecraft:witch": "2024-09-13 03:25:50 +0000",
+      "minecraft:wither_skeleton": "2024-09-25 17:52:17 +0000",
       "minecraft:ghast": "2024-09-09 05:07:23 +0000",
       "minecraft:cave_spider": "2024-09-13 03:50:00 +0000",
       "minecraft:vindicator": "2024-09-08 05:59:41 +0000",
       "minecraft:enderman": "2024-09-15 07:03:21 +0000",
+      "minecraft:magma_cube": "2024-09-25 17:50:52 +0000",
       "minecraft:spider": "2024-09-03 04:27:28 +0000",
       "minecraft:vex": "2024-09-08 06:13:09 +0000",
       "minecraft:zombie": "2024-09-03 04:11:52 +0000",
@@ -2351,6 +2354,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-09-05 03:53:28 +0000",
+      "minecraft:nether_wastes": "2024-09-25 17:54:58 +0000",
       "minecraft:basalt_deltas": "2024-09-25 03:00:51 +0000"
     },
     "done": false
@@ -2976,6 +2980,84 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-09-25 03:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-25 17:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-25 17:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-25 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-25 17:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-25 17:51:34 +0000"
     },
     "done": true
   },
