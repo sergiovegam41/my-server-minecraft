@@ -2670,5 +2670,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-09-26 05:04:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
