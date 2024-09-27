@@ -8,27 +8,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-09-04 00:51:22 +0000",
-      "minecraft:beach": "2024-09-04 00:51:14 +0000",
       "minecraft:old_growth_pine_taiga": "2024-09-27 01:35:10 +0000",
-      "minecraft:dark_forest": "2024-09-04 01:04:04 +0000",
       "minecraft:forest": "2024-09-03 04:33:51 +0000",
       "minecraft:taiga": "2024-09-04 01:20:54 +0000",
-      "minecraft:sparse_jungle": "2024-09-03 03:12:52 +0000",
       "minecraft:deep_ocean": "2024-09-27 01:39:50 +0000",
-      "minecraft:river": "2024-09-03 03:12:39 +0000",
-      "minecraft:stony_shore": "2024-09-27 01:08:45 +0000",
       "minecraft:lush_caves": "2024-09-03 03:13:33 +0000",
-      "minecraft:dripstone_caves": "2024-09-03 20:14:35 +0000",
       "minecraft:deep_cold_ocean": "2024-09-27 01:23:03 +0000",
-      "minecraft:old_growth_birch_forest": "2024-09-03 04:33:49 +0000",
       "minecraft:jungle": "2024-09-03 03:12:03 +0000",
       "minecraft:ocean": "2024-09-27 01:24:07 +0000",
       "minecraft:cherry_grove": "2024-09-03 05:01:36 +0000",
-      "minecraft:grove": "2024-09-27 01:05:15 +0000",
-      "minecraft:meadow": "2024-09-04 00:53:58 +0000",
+      "minecraft:sunflower_plains": "2024-09-27 02:06:34 +0000",
       "minecraft:birch_forest": "2024-09-04 01:03:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-09-27 01:34:53 +0000",
       "minecraft:bamboo_jungle": "2024-09-03 03:12:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-09-27 02:00:01 +0000",
+      "minecraft:beach": "2024-09-04 00:51:14 +0000",
+      "minecraft:dark_forest": "2024-09-04 01:04:04 +0000",
+      "minecraft:sparse_jungle": "2024-09-03 03:12:52 +0000",
+      "minecraft:river": "2024-09-03 03:12:39 +0000",
+      "minecraft:lukewarm_ocean": "2024-09-27 02:00:16 +0000",
+      "minecraft:stony_shore": "2024-09-27 01:08:45 +0000",
+      "minecraft:dripstone_caves": "2024-09-03 20:14:35 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-03 04:33:49 +0000",
+      "minecraft:grove": "2024-09-27 01:05:15 +0000",
+      "minecraft:meadow": "2024-09-04 00:53:58 +0000",
+      "minecraft:savanna": "2024-09-27 02:27:53 +0000",
       "minecraft:plains": "2024-09-03 04:40:35 +0000"
     },
     "done": false
@@ -643,6 +647,7 @@
       "cooked_porkchop": "2024-09-03 06:11:36 +0000",
       "mutton": "2024-09-03 04:36:49 +0000",
       "pufferfish": "2024-09-09 03:38:18 +0000",
+      "chicken": "2024-09-27 02:53:35 +0000",
       "bread": "2024-09-03 17:58:47 +0000",
       "golden_apple": "2024-09-13 03:14:54 +0000",
       "suspicious_stew": "2024-09-05 01:02:09 +0000",
@@ -3168,6 +3173,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-09-27 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-09-27 02:06:36 +0000"
     },
     "done": true
   },

@@ -1654,3 +1654,107 @@ To https://github.com/sergiovegam41/my-server-minecraft.git
 From https://github.com/sergiovegam41/my-server-minecraft
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main 9f953e2] Actualización automática
+ Committer: EC2 Default User <ec2-user@ip-172-31-19-246.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 135 files changed, 55 insertions(+), 3 deletions(-)
+ create mode 100644 world/entities/r.-1.-7.mca
+ create mode 100644 world/entities/r.-1.-8.mca
+ create mode 100644 world/entities/r.-2.-6.mca
+ create mode 100644 world/entities/r.-2.-7.mca
+ create mode 100644 world/entities/r.-2.-8.mca
+ create mode 100644 world/entities/r.-3.-3.mca
+ create mode 100644 world/entities/r.-3.-4.mca
+ create mode 100644 world/entities/r.-3.-5.mca
+ create mode 100644 world/entities/r.-3.-6.mca
+ create mode 100644 world/entities/r.-3.-7.mca
+ create mode 100644 world/entities/r.-3.-8.mca
+ create mode 100644 world/entities/r.-4.-2.mca
+ create mode 100644 world/entities/r.-4.-3.mca
+ create mode 100644 world/entities/r.-4.-4.mca
+ create mode 100644 world/entities/r.-4.-5.mca
+ create mode 100644 world/entities/r.-4.-6.mca
+ create mode 100644 world/entities/r.-4.-7.mca
+ create mode 100644 world/entities/r.-4.2.mca
+ create mode 100644 world/entities/r.-5.-1.mca
+ create mode 100644 world/entities/r.-5.-2.mca
+ create mode 100644 world/entities/r.-5.-3.mca
+ create mode 100644 world/entities/r.-5.0.mca
+ create mode 100644 world/entities/r.-5.1.mca
+ create mode 100644 world/entities/r.-5.2.mca
+ create mode 100644 world/entities/r.-6.0.mca
+ create mode 100644 world/entities/r.-6.1.mca
+ create mode 100644 world/entities/r.0.-7.mca
+ create mode 100644 world/poi/r.-1.-7.mca
+ create mode 100644 world/poi/r.-1.-8.mca
+ create mode 100644 world/poi/r.-2.-4.mca
+ create mode 100644 world/poi/r.-2.-5.mca
+ create mode 100644 world/poi/r.-2.-6.mca
+ create mode 100644 world/poi/r.-2.-7.mca
+ create mode 100644 world/poi/r.-2.-8.mca
+ create mode 100644 world/poi/r.-3.-4.mca
+ create mode 100644 world/poi/r.-3.-5.mca
+ create mode 100644 world/poi/r.-3.-6.mca
+ create mode 100644 world/poi/r.-3.-7.mca
+ create mode 100644 world/poi/r.-4.-3.mca
+ create mode 100644 world/poi/r.-4.-4.mca
+ create mode 100644 world/poi/r.-4.-5.mca
+ create mode 100644 world/poi/r.-4.-6.mca
+ create mode 100644 world/poi/r.-4.-7.mca
+ create mode 100644 world/poi/r.-5.-1.mca
+ create mode 100644 world/poi/r.-5.-2.mca
+ create mode 100644 world/poi/r.-5.0.mca
+ create mode 100644 world/poi/r.-5.1.mca
+ create mode 100644 world/poi/r.-5.2.mca
+ create mode 100644 world/poi/r.-6.-1.mca
+ create mode 100644 world/poi/r.-6.0.mca
+ create mode 100644 world/poi/r.-6.1.mca
+ create mode 100644 world/region/r.-1.-6.mca
+ create mode 100644 world/region/r.-1.-7.mca
+ create mode 100644 world/region/r.-1.-8.mca
+ create mode 100644 world/region/r.-2.-4.mca
+ create mode 100644 world/region/r.-2.-5.mca
+ create mode 100644 world/region/r.-2.-6.mca
+ create mode 100644 world/region/r.-2.-7.mca
+ create mode 100644 world/region/r.-2.-8.mca
+ create mode 100644 world/region/r.-3.-4.mca
+ create mode 100644 world/region/r.-3.-5.mca
+ create mode 100644 world/region/r.-3.-6.mca
+ create mode 100644 world/region/r.-3.-7.mca
+ create mode 100644 world/region/r.-3.-8.mca
+ create mode 100644 world/region/r.-4.-3.mca
+ create mode 100644 world/region/r.-4.-4.mca
+ create mode 100644 world/region/r.-4.-5.mca
+ create mode 100644 world/region/r.-4.-6.mca
+ create mode 100644 world/region/r.-4.-7.mca
+ create mode 100644 world/region/r.-4.-8.mca
+ create mode 100644 world/region/r.-5.-1.mca
+ create mode 100644 world/region/r.-5.-2.mca
+ create mode 100644 world/region/r.-5.-3.mca
+ create mode 100644 world/region/r.-5.0.mca
+ create mode 100644 world/region/r.-5.1.mca
+ create mode 100644 world/region/r.-5.2.mca
+ create mode 100644 world/region/r.-6.-1.mca
+ create mode 100644 world/region/r.-6.-2.mca
+ create mode 100644 world/region/r.-6.0.mca
+ create mode 100644 world/region/r.-6.1.mca
+ create mode 100644 world/region/r.-6.2.mca
+ create mode 100644 world/region/r.0.-6.mca
+ create mode 100644 world/region/r.0.-7.mca
+ create mode 100644 world/region/r.0.-8.mca
+To https://github.com/sergiovegam41/my-server-minecraft.git
+   b42b298..9f953e2  main -> main
+From https://github.com/sergiovegam41/my-server-minecraft
+ * branch            main       -> FETCH_HEAD
+Already up to date.

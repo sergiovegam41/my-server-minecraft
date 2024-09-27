@@ -6,3 +6,30 @@
 [01:58:37] [Server thread/INFO]: sergios41 left the game
 [01:58:45] [Server thread/INFO]: sergios41[/191.95.135.173:13108] logged in with entity id 214143 at (-659.9841946237837, 62.11076431274413, -3481.1798474570114)
 [01:58:45] [Server thread/INFO]: sergios41 joined the game
+[02:09:09] [Server thread/INFO]: sergios41 was slain by Zombie
+[02:09:37] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:09:37] [Server thread/INFO]: sergios41 left the game
+[02:09:58] [Server thread/INFO]: sergios41[/191.95.135.173:13065] logged in with entity id 225601 at (29.147504079207216, 90.0, -55.121064866879586)
+[02:09:58] [Server thread/INFO]: sergios41 joined the game
+[02:32:58] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:32:58] [Server thread/INFO]: sergios41 left the game
+[02:33:22] [Server thread/INFO]: sergios41[/191.95.135.173:15778] logged in with entity id 236278 at (324.97241461243397, 69.0, 104.7362247111922)
+[02:33:22] [Server thread/INFO]: sergios41 joined the game
+[02:33:32] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:33:32] [Server thread/INFO]: sergios41 left the game
+[02:34:36] [Server thread/INFO]: sergios41[/191.95.135.173:15854] logged in with entity id 236631 at (318.6474495045383, 69.0, 101.02399006119632)
+[02:34:36] [Server thread/INFO]: sergios41 joined the game
+[02:34:39] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:34:39] [Server thread/INFO]: sergios41 left the game
+[02:35:04] [Server thread/INFO]: sergios41[/191.95.135.173:15850] logged in with entity id 236953 at (318.6474495045383, 69.0, 101.02399006119632)
+[02:35:04] [Server thread/INFO]: sergios41 joined the game
+[02:45:34] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:45:34] [Server thread/INFO]: sergios41 left the game
+[02:45:45] [Server thread/INFO]: sergios41[/191.95.135.173:15861] logged in with entity id 240943 at (358.99674585558785, 64.0, 167.08226796415778)
+[02:45:45] [Server thread/INFO]: sergios41 joined the game
+[02:46:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=315, y=68, z=96} iz{x=316, y=67, z=96}
+[02:56:29] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[02:56:29] [Server thread/INFO]: sergios41 left the game
+[02:56:40] [Server thread/INFO]: sergios41[/191.95.135.173:61313] logged in with entity id 245260 at (385.57814570797655, 68.0, 164.92857168448901)
+[02:56:40] [Server thread/INFO]: sergios41 joined the game
+[02:56:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
