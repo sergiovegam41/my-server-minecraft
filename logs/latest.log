@@ -1,128 +1,41 @@
-[03:16:25] [ServerMain/INFO]: Building unoptimized datafixer
-[03:16:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:16:28] [ServerMain/INFO]: Loaded 7 recipes
-[03:16:28] [ServerMain/INFO]: Loaded 1179 advancements
-[03:16:29] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[03:16:29] [Server thread/INFO]: Loading properties
-[03:16:29] [Server thread/INFO]: Default game type: SURVIVAL
-[03:16:29] [Server thread/INFO]: Generating keypair
-[03:16:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:16:29] [Server thread/INFO]: Using epoll channel type
-[03:16:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:16:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:16:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:16:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:16:29] [Server thread/INFO]: Preparing level "world"
-[03:16:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:16:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:17:21] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[03:17:21] [Worker-Main-6/INFO]: Preparing spawn area: 14%
-[03:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[03:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[03:17:23] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[03:17:23] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[03:17:24] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[03:17:24] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[03:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[03:17:25] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[03:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[03:17:26] [Worker-Main-6/INFO]: Preparing spawn area: 50%
-[03:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[03:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[03:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 59%
-[03:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 60%
-[03:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 62%
-[03:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 67%
-[03:17:30] [Worker-Main-6/INFO]: Preparing spawn area: 73%
-[03:17:30] [Worker-Main-6/INFO]: Preparing spawn area: 80%
-[03:17:31] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[03:17:31] [Worker-Main-6/INFO]: Preparing spawn area: 86%
-[03:17:32] [Worker-Main-6/INFO]: Preparing spawn area: 88%
-[03:17:32] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[03:17:33] [Worker-Main-6/INFO]: Preparing spawn area: 93%
-[03:17:33] [Worker-Main-6/INFO]: Preparing spawn area: 95%
-[03:17:34] [Worker-Main-6/INFO]: Preparing spawn area: 97%
-[03:17:34] [Worker-Main-6/INFO]: Preparing spawn area: 98%
-[03:17:35] [Worker-Main-6/INFO]: Preparing spawn area: 99%
-[03:17:35] [Server thread/INFO]: Time elapsed: 50827 ms
-[03:17:35] [Server thread/INFO]: Done (66.337s)! For help, type "help"
-[03:25:14] [Server thread/INFO]: Mr_blaza23[/186.99.101.203:50376] logged in with entity id 242 at (-16.5, 67.0, 17.5)
-[03:25:14] [Server thread/INFO]: Mr_blaza23 joined the game
-[03:29:30] [Server thread/INFO]: sergios41[/191.95.135.173:35830] logged in with entity id 1107 at (-13.5, 67.0, 14.5)
-[03:29:30] [Server thread/INFO]: sergios41 joined the game
-[03:31:49] [Server thread/INFO]: Mr_blaza23 lost connection: Disconnected
-[03:31:49] [Server thread/INFO]: Mr_blaza23 left the game
-[03:32:42] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:32:42] [Server thread/INFO]: sergios41 left the game
+[03:46:07] [ServerMain/INFO]: Building unoptimized datafixer
+[03:46:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:46:10] [ServerMain/INFO]: Loaded 7 recipes
+[03:46:11] [ServerMain/INFO]: Loaded 1179 advancements
+[03:46:12] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[03:46:12] [Server thread/INFO]: Loading properties
+[03:46:12] [Server thread/INFO]: Default game type: SURVIVAL
+[03:46:12] [Server thread/INFO]: Generating keypair
+[03:46:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:46:12] [Server thread/INFO]: Using epoll channel type
+[03:46:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:46:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:46:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:46:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:46:12] [Server thread/INFO]: Preparing level "world"
+[03:46:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:31] [Worker-Main-1/INFO]: Preparing spawn area: 78%
+[03:46:31] [Server thread/INFO]: Time elapsed: 7349 ms
+[03:46:31] [Server thread/INFO]: Done (19.010s)! For help, type "help"
+[03:46:37] [Server thread/INFO]: sergios41[/191.95.135.173:36389] logged in with entity id 183 at (-24.01067169671475, 65.0, -54.616429072401594)
+[03:46:37] [Server thread/INFO]: sergios41 joined the game
+[03:47:05] [Server thread/INFO]: sergios41 was slain by Spider
+[03:48:01] [Server thread/INFO]: sergios41 was slain by Zombie
+[03:52:29] [Server thread/INFO]: sergios41 was slain by Zombie
+[03:54:44] [Server thread/INFO]: sergios41 was shot by Skeleton
+[03:54:59] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[03:54:59] [Server thread/INFO]: sergios41 left the game
