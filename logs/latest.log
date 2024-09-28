@@ -1,114 +1,22 @@
-[00:21:44] [Server thread/INFO]: sergios41[/191.95.135.173:20751] logged in with entity id 170561 at (-1490.0095917286476, -10.0, 546.6999999880791)
-[00:21:44] [Server thread/INFO]: sergios41 joined the game
-[01:47:55] [Server thread/INFO]: julio9426[/191.95.135.173:42891] logged in with entity id 205647 at (-1179.385298747413, 66.0, 451.42125105702166)
-[01:47:55] [Server thread/INFO]: julio9426 joined the game
-[01:58:37] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[01:58:37] [Server thread/INFO]: sergios41 left the game
-[01:58:45] [Server thread/INFO]: sergios41[/191.95.135.173:13108] logged in with entity id 214143 at (-659.9841946237837, 62.11076431274413, -3481.1798474570114)
-[01:58:45] [Server thread/INFO]: sergios41 joined the game
-[02:09:09] [Server thread/INFO]: sergios41 was slain by Zombie
-[02:09:37] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:09:37] [Server thread/INFO]: sergios41 left the game
-[02:09:58] [Server thread/INFO]: sergios41[/191.95.135.173:13065] logged in with entity id 225601 at (29.147504079207216, 90.0, -55.121064866879586)
-[02:09:58] [Server thread/INFO]: sergios41 joined the game
-[02:32:58] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:32:58] [Server thread/INFO]: sergios41 left the game
-[02:33:22] [Server thread/INFO]: sergios41[/191.95.135.173:15778] logged in with entity id 236278 at (324.97241461243397, 69.0, 104.7362247111922)
-[02:33:22] [Server thread/INFO]: sergios41 joined the game
-[02:33:32] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:33:32] [Server thread/INFO]: sergios41 left the game
-[02:34:36] [Server thread/INFO]: sergios41[/191.95.135.173:15854] logged in with entity id 236631 at (318.6474495045383, 69.0, 101.02399006119632)
-[02:34:36] [Server thread/INFO]: sergios41 joined the game
-[02:34:39] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:34:39] [Server thread/INFO]: sergios41 left the game
-[02:35:04] [Server thread/INFO]: sergios41[/191.95.135.173:15850] logged in with entity id 236953 at (318.6474495045383, 69.0, 101.02399006119632)
-[02:35:04] [Server thread/INFO]: sergios41 joined the game
-[02:45:34] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:45:34] [Server thread/INFO]: sergios41 left the game
-[02:45:45] [Server thread/INFO]: sergios41[/191.95.135.173:15861] logged in with entity id 240943 at (358.99674585558785, 64.0, 167.08226796415778)
-[02:45:45] [Server thread/INFO]: sergios41 joined the game
-[02:46:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=315, y=68, z=96} iz{x=316, y=67, z=96}
-[02:56:29] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[02:56:29] [Server thread/INFO]: sergios41 left the game
-[02:56:40] [Server thread/INFO]: sergios41[/191.95.135.173:61313] logged in with entity id 245260 at (385.57814570797655, 68.0, 164.92857168448901)
-[02:56:40] [Server thread/INFO]: sergios41 joined the game
-[02:56:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
-[03:02:34] [Server thread/INFO]: sergios41 was shot by Pillager
-[03:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
-[03:07:15] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:07:15] [Server thread/INFO]: sergios41 left the game
-[03:10:01] [Server thread/INFO]: sergios41[/191.95.135.173:61318] logged in with entity id 250697 at (389.69999998807907, 78.0, 156.30000001192093)
-[03:10:01] [Server thread/INFO]: sergios41 joined the game
-[03:10:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[03:18:26] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:18:26] [Server thread/INFO]: sergios41 left the game
-[03:18:49] [Server thread/INFO]: sergios41[/191.95.135.173:9426] logged in with entity id 254073 at (308.6689750953129, 64.0, 238.99760659692157)
-[03:18:49] [Server thread/INFO]: sergios41 joined the game
-[03:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
-[03:21:58] [Server thread/WARN]: julio9426 moved too quickly! -9.959479013284977,-1.0,0.8116118010431421
-[03:30:09] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[03:30:09] [Server thread/INFO]: sergios41 left the game
-[03:30:30] [Server thread/INFO]: sergios41[/191.95.135.173:9418] logged in with entity id 258084 at (314.4070135737312, 68.0, 234.6536680866062)
-[03:30:30] [Server thread/INFO]: sergios41 joined the game
-[03:39:11] [Server thread/INFO]: sergios41 fell off some vines
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -4.707595350349038,0.0,-9.235408131629015
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -4.903993981601843,0.0,-9.583508767249441
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -5.100894279554268,0.0,-9.931358245610227
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -5.298246077524254,0.0,-10.278981682443373
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -5.496004225499291,0.0,-10.626401681907055
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -5.694128088469142,0.0,-10.97363858774304
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -5.892581094925617,0.0,-11.320710709318405
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -6.091330330512164,0.0,-11.66763452506325
-[03:39:14] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -6.290346172308773,0.0,-12.014424865564024
-[03:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
-[03:41:22] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[03:41:22] [Server thread/INFO]: julio9426 left the game
-[03:41:31] [Server thread/INFO]: julio9426[/191.95.135.173:9408] logged in with entity id 265777 at (-1762.3477079424435, 64.0, -1109.7952769904775)
-[03:41:31] [Server thread/INFO]: julio9426 joined the game
-[03:44:11] [Server thread/INFO]: sergios41 lost connection: Timed out
-[03:44:11] [Server thread/INFO]: sergios41 left the game
-[03:44:12] [Server thread/INFO]: sergios41[/191.95.135.173:9411] logged in with entity id 267669 at (504.49449388570366, 70.0, 257.18429902462924)
-[03:44:12] [Server thread/INFO]: sergios41 joined the game
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -7.940140056012979,0.0,-6.672945482750492
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -8.25560500280426,0.0,-6.918453130884018
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -8.571394039780671,0.0,-7.163581589842806
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -8.887474757915925,0.0,-7.4083687785532675
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -9.203817989087383,0.0,-7.652848824048306
-[03:44:13] [Server thread/WARN]: Oak Boat (vehicle of julio9426) moved too quickly! -9.5203974819849,0.0,-7.8970524406568074
-[03:46:38] [Server thread/INFO]: julio9426 drowned
-[03:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
-[03:52:29] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[03:52:29] [Server thread/INFO]: julio9426 left the game
-[03:52:47] [Server thread/INFO]: julio9426[/191.95.135.173:9380] logged in with entity id 271775 at (-1180.6964470031687, 62.11076431274413, 189.3843507736996)
-[03:52:47] [Server thread/INFO]: julio9426 joined the game
-[04:03:45] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[04:03:45] [Server thread/INFO]: julio9426 left the game
-[04:03:52] [Server thread/INFO]: julio9426[/191.95.135.173:9372] logged in with entity id 276698 at (-1756.2698883228725, 62.11076431274413, -813.0384021716674)
-[04:03:52] [Server thread/INFO]: julio9426 joined the game
-[04:15:09] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[04:15:09] [Server thread/INFO]: julio9426 left the game
-[04:15:40] [Server thread/INFO]: julio9426[/191.95.135.173:17283] logged in with entity id 281175 at (-1718.9795794650092, 62.11076431274413, -1112.7354118064447)
-[04:15:40] [Server thread/INFO]: julio9426 joined the game
-[04:26:29] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[04:26:29] [Server thread/INFO]: julio9426 left the game
-[04:26:35] [Server thread/INFO]: julio9426[/191.95.135.173:17389] logged in with entity id 283933 at (-1762.300000011921, 22.0, -1106.699999988079)
-[04:26:35] [Server thread/INFO]: julio9426 joined the game
-[04:37:11] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[04:37:11] [Server thread/INFO]: julio9426 left the game
-[04:37:20] [Server thread/INFO]: julio9426[/191.95.135.173:17280] logged in with entity id 287462 at (-1738.7725047528381, 62.11076431274413, -729.8363285408896)
-[04:37:20] [Server thread/INFO]: julio9426 joined the game
-[04:47:54] [Server thread/INFO]: sergios41 was blown up by Creeper
-[04:48:15] [Server thread/INFO]: julio9426 lost connection: Disconnected
-[04:48:15] [Server thread/INFO]: julio9426 left the game
-[04:48:21] [Server thread/INFO]: julio9426[/191.95.135.173:17374] logged in with entity id 290789 at (-1750.000080270533, 62.38764544986469, -548.7768061279124)
-[04:48:21] [Server thread/INFO]: julio9426 joined the game
-[04:51:59] [Server thread/INFO]: sergios41 fell from a high place
-[04:55:20] [Server thread/INFO]: julio9426 was impaled by Drowned
-[04:55:52] [Server thread/INFO]: julio9426 lost connection: Timed out
-[04:55:52] [Server thread/INFO]: julio9426 left the game
-[04:56:26] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[04:56:26] [Server thread/INFO]: sergios41 left the game
-[22:31:52] [Server thread/INFO]: sergios41[/190.242.62.100:54397] logged in with entity id 292987 at (306.6416207089388, 73.0, 237.02819429604543)
-[22:31:52] [Server thread/INFO]: sergios41 joined the game
-[22:33:12] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[22:33:12] [Server thread/INFO]: sergios41 left the game
+[00:39:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:39:36] [ServerMain/INFO]: Loaded 1175 recipes
+[00:39:36] [ServerMain/INFO]: Loaded 1276 advancements
+[00:39:37] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[00:39:37] [Server thread/INFO]: Loading properties
+[00:39:37] [Server thread/INFO]: Default game type: SURVIVAL
+[00:39:37] [Server thread/INFO]: Generating keypair
+[00:39:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:39:37] [Server thread/INFO]: Using epoll channel type
+[00:39:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:39:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:39:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:39:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:39:37] [Server thread/INFO]: Preparing level "world"
+[00:39:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:47] [Server thread/INFO]: Time elapsed: 2521 ms
+[00:39:47] [Server thread/INFO]: Done (9.500s)! For help, type "help"
