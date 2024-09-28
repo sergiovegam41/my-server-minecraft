@@ -2286,3 +2286,7 @@ To https://github.com/sergiovegam41/my-server-minecraft.git
    7841d08..bbe73f3  AOC -> AOC
 From https://github.com/sergiovegam41/my-server-minecraft
  * branch            AOC        -> FETCH_HEAD
+To https://github.com/sergiovegam41/my-server-minecraft.git
+   bbe73f3..fac2c8d  AOC -> AOC
+From https://github.com/sergiovegam41/my-server-minecraft
+ * branch            AOC        -> FETCH_HEAD
