@@ -1,167 +1,53 @@
-[19:03:55] [ServerMain/INFO]: Building unoptimized datafixer
-[19:03:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:04:01] [ServerMain/INFO]: Loaded 7 recipes
-[19:04:02] [ServerMain/INFO]: Loaded 1179 advancements
-[19:04:03] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[19:04:03] [Server thread/INFO]: Loading properties
-[19:04:03] [Server thread/INFO]: Default game type: SURVIVAL
-[19:04:03] [Server thread/INFO]: Generating keypair
-[19:04:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:04:04] [Server thread/INFO]: Using default channel type
-[19:04:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:04:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:04:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:04:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:04:04] [Server thread/INFO]: Preparing level "world"
-[19:04:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:04:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:04:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:04:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:04:16] [Worker-Main-4/INFO]: Preparing spawn area: 15%
-[19:04:16] [Worker-Main-7/INFO]: Preparing spawn area: 43%
-[19:04:17] [Worker-Main-5/INFO]: Preparing spawn area: 84%
-[19:04:17] [Server thread/INFO]: Time elapsed: 12267 ms
-[19:04:17] [Server thread/INFO]: Done (12.743s)! For help, type "help"
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:vex_armor_trim_smithing_template is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:vex_armor_trim_smithing_template is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:ominous_bottle is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:vex_armor_trim_smithing_template is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:pink_petals is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:short_grass is
-[19:08:29] [Server thread/WARN]: Invalid statistic in .\world\stats\1f8fcb69-064c-33cc-96b8-1c526822db69.json: Don't know what minecraft:pink_petals is
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/cherry_boat' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/bamboo_raft' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_pink_petals' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/oak_hanging_sign' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/calibrated_sculk_sensor' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/bamboo_chest_raft' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/cherry_chest_boat' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/chiseled_bookshelf' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/bamboo_block' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_bed' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_wool' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_carpet' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_bed' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_carpet' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_wool' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/vex_armor_trim_smithing_template' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/tools/brush' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignored advancement 'minecraft:husbandry/whole_pack' in progress file .\world\advancements\1f8fcb69-064c-33cc-96b8-1c526822db69.json - it doesn't exist anymore?
-[19:08:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:player.block_interaction_range'
-[19:08:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:player.entity_interaction_range'
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cherry_chest_boat removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:bamboo_chest_raft removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_magenta_wool removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:vex_armor_trim_smithing_template removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:bamboo_raft removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:chiseled_bookshelf removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_black_bed removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cherry_boat removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:oak_hanging_sign removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_black_carpet removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:vex_armor_trim_smithing_template_smithing_trim removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brush removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_black_wool removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_pink_petals removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:calibrated_sculk_sensor removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_magenta_bed removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:dye_magenta_carpet removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:bamboo_block removed now.
-[19:08:29] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:vex_armor_trim_smithing_template_smithing_trim removed now.
-[19:08:29] [Server thread/INFO]: sergios41[/127.0.0.1:62964] logged in with entity id 44 at (306.6416207089388, 73.0, 237.02819429604543)
-[19:08:29] [Server thread/INFO]: sergios41 joined the game
-[19:08:30] [Server thread/WARN]: Fetching packet for removed entity bqv['Air'/52, l='ServerLevel[world]', x=292.13, y=16.00, z=234.36, removed=DISCARDED]
-[19:08:30] [Server thread/WARN]: Fetching packet for removed entity bqv['Air'/87, l='ServerLevel[world]', x=275.70, y=62.00, z=176.34, removed=DISCARDED]
-[19:08:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:37] [Server thread/WARN]: Skipping BlockEntity with id minecraft:decorated_pot
-[19:08:39] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:39] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:39] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:08:39] [Server thread/WARN]: Skipping BlockEntity with id minecraft:trial_spawner
-[19:08:57] [Server thread/INFO]: sergios41 lost connection: Disconnected
-[19:08:57] [Server thread/INFO]: sergios41 left the game
-[19:09:06] [Server thread/INFO]: Stopping server
-[19:09:06] [Server thread/INFO]: Saving players
-[19:09:06] [Server thread/INFO]: Saving worlds
+[19:54:54] [ServerMain/INFO]: Building unoptimized datafixer
+[19:54:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:55:04] [ServerMain/INFO]: Loaded 7 recipes
+[19:55:06] [ServerMain/INFO]: Loaded 1179 advancements
+[19:55:09] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[19:55:09] [Server thread/INFO]: Loading properties
+[19:55:09] [Server thread/INFO]: Default game type: SURVIVAL
+[19:55:09] [Server thread/INFO]: Generating keypair
+[19:55:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:55:10] [Server thread/INFO]: Using default channel type
+[19:55:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:55:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:55:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:55:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:55:11] [Server thread/INFO]: Preparing level "world"
+[19:55:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:55:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:55:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:55:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:25] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[19:55:26] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[19:55:26] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[19:55:26] [Server thread/INFO]: Time elapsed: 14592 ms
+[19:55:26] [Server thread/INFO]: Done (15.633s)! For help, type "help"
+[19:55:32] [Server thread/INFO]: sergios41[/127.0.0.1:58823] logged in with entity id 43 at (304.3171550435963, 73.0, 226.9619422248034)
+[19:55:32] [Server thread/INFO]: sergios41 joined the game
+[19:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[19:57:26] [Server thread/INFO]: sergios41 lost connection: Disconnected
+[19:57:26] [Server thread/INFO]: sergios41 left the game
