@@ -1,2 +1,7 @@
 From https://github.com/sergiovegam41/my-server-minecraft
  * branch            AOC        -> FETCH_HEAD
+To https://github.com/sergiovegam41/my-server-minecraft.git
+   445cc3f..c5103d3  AOC -> AOC
+From https://github.com/sergiovegam41/my-server-minecraft
+ * branch            AOC        -> FETCH_HEAD
+Already up to date.
