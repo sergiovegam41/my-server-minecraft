@@ -1,0 +1,16 @@
+{
+  "blacklisted_items": [
+    "ftbquests:book",
+    "minecraft:elytra",
+    "alexsmobs:tarantula_hawk_elytra",
+    "cataclysm:ignitium_elytra_chestplate"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+    "examplemod:example_item"
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+    "examplemod:example_item"
+  ]
+}
