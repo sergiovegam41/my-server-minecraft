@@ -2926,3 +2926,22 @@ To https://github.com/sergiovegam41/my-server-minecraft.git
 From https://github.com/sergiovegam41/my-server-minecraft
  * branch            main       -> FETCH_HEAD
 Already up to date.
+[main 2b70849] Actualización automática
+ Committer: EC2 Default User <ec2-user@ip-172-31-15-236.us-east-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+To https://github.com/sergiovegam41/my-server-minecraft.git
+   f991561..2b70849  main -> main
+From https://github.com/sergiovegam41/my-server-minecraft
+ * branch            main       -> FETCH_HEAD
+Already up to date.
